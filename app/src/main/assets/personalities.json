@@ -1,0 +1,116 @@
+{
+  "personalities": [
+    {
+      "Number":"1",
+      "Title": "Lojistician",
+      "Type": "ISTJ",
+      "Description": "Practical and organized, ISTJs are reliable and efficient workers who like to follow the rules.",
+      "Cover": "logistician"
+    },
+    {
+      "Number":"2",
+      "Title": "Defender",
+      "Type": "ISFJ",
+      "Description": "Caring and compassionate, ISFJs are loyal and dedicated friends and family members who are always willing to help others.",
+      "Cover": "defender"
+    },
+    {
+      "Number":"3",
+      "Title": "Architect",
+      "Type": "INTJ",
+      "Description": "Brilliant and independent, INTJs are highly intelligent and strategic thinkers who are always looking for new ways to improve things.",
+      "Cover": "architect"
+    },
+    {
+      "Number":"4",
+      "Title": "Advocate",
+      "Type": "INFJ",
+      "Description": "Idealistic and compassionate, INFJs are deeply caring and empathetic people who are always looking for ways to make the world a better place.",
+      "Cover": "advocate"
+    },
+    {
+      "Number":"5",
+      "Title": "Executive",
+      "Type": "ESTJ",
+      "Description": "Decisive and efficient, ESTJs are natural leaders who are always looking for ways to get things done.",
+      "Cover": "executive"
+    },
+    {
+      "Number":"6",
+      "Title": "Consul",
+      "Type": "ESFJ",
+      "Description": "Warm and outgoing, ESFJs are friendly and supportive people who are always willing to help others.",
+      "Cover": "consul"
+    },
+    {
+      "Number":"7",
+      "Title": "Commander",
+      "Type": "ENTJ",
+      "Description": "Visionary and strategic, ENTJs are natural leaders who are always looking for new ways to achieve their goals.",
+      "Cover": "commander"
+    },
+    {
+      "Number":"8",
+      "Title": "Protaganist",
+      "Type": "ENFJ",
+      "Description": "Inspiring and compassionate, ENFJs are natural leaders who are always looking for ways to help others.",
+      "Cover": "protagonist"
+    },
+    {
+      "Number":"9",
+      "Title": "Virtuoso",
+      "Type": "ISTP",
+      "Description": "Pragmatic and resourceful, ISTPs are independent and adaptable people who are always looking for new challenges.",
+      "Cover": "virtuoso"
+    },
+    {
+      "Number":"10",
+      "Title": "Adventurer",
+      "Type": "ISFP",
+      "Description": "Creative and expressive, ISFPs are passionate and independent people who are always looking for new ways to express themselves.",
+      "Cover": "adventurer"
+    },
+    {
+      "Number":"11",
+      "Title": "Logician",
+      "Type": "INTP",
+      "Description": "Original and independent, INTPs are brilliant and creative thinkers who are always looking for new ways to understand the world.",
+      "Cover": "logician"
+    },
+    {
+      "Number":"12",
+      "Title": "Mediator",
+      "Type": "INFP",
+      "Description": "Idealistic and compassionate, INFPs are deeply caring and empathetic people who are always looking for ways to make the world a better place.",
+      "Cover": "mediator"
+    },
+    {
+      "Number":"13",
+      "Title": "Entrepreneur",
+      "Type": "ESTP",
+      "Description": "Spontaneous and adventurous, ESTPs are outgoing and fun-loving people who are always looking for new experiences.",
+      "Cover": "entrepreneur"
+    },
+    {
+      "Number":"14",
+      "Title": "Entertainer",
+      "Type": "ESFP",
+      "Description": "Charming and enthusiastic, ESFPs are outgoing and expressive people who are always looking for ways to have fun.",
+      "Cover": "entertainer"
+    },
+    {
+      "Number":"15",
+      "Title": "Debater",
+      "Type": "ENTP",
+      "Description": "Charismatic and innovative, ENTPs are brilliant and creative thinkers who are always looking for new ways to challenge the status quo.",
+      "Cover": "debator"
+    },
+    {
+      "Number":"16",
+      "Title": "Campaigner",
+      "Type": "ENFP",
+      "Description": "Inspirational and optimistic, ENFPs are passionate and enthusiastic people who are always looking for ways to make the world a better place.",
+      "Cover": "campaigner"
+    }
+  ]
+}
